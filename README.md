@@ -1,8 +1,6 @@
 Language Detection System
 
-This is a language detection system built using Python. The system uses the langdetect library to detect the language of a given text. The system supports 55 languages 
-
-including English, Spanish, French, German, Italian, Chinese, Japanese, and many more.
+This is a language detection system built using Python. The system uses the langdetect library to detect the language of a given text. The system supports 55 languages including English, Spanish, French, German, Italian, Chinese, Japanese, and many more.
 
 
 Usage:
