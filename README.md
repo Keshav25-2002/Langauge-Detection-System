@@ -5,10 +5,12 @@ This is a language detection system built using Python. The system uses the lang
 including English, Spanish, French, German, Italian, Chinese, Japanese, and many more.
 
 
-Usage
+Usage:
+
 To detect the language of a text, you need to provide the text as input to the detect_language function in the language_detection.py file.
 
-Supported Languages
+Supported Languages:
+
 The language detection system supports the following languages:
 
 Afrikaans
